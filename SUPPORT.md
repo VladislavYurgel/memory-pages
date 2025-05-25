@@ -63,7 +63,7 @@ We aim to respond to all support emails within **1–2 business days**.
 
 ## 🔗 Links
 
-* [GitHub Project](Link)
+* [GitHub Project](https://vladislavyurgel.github.io/memory-pages/SUPPORT)
 * [Privacy Policy](https://vladislavyurgel.github.io/memory-pages/)
 
 ---
