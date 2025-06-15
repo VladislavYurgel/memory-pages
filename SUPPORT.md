@@ -1,4 +1,4 @@
-# 📞 Support — Memory Twist: Flip & Match
+# 📞 Support — Neuro Twist: Flip & Match
 
 Need help or facing an issue in the game?
 We're here to help on **both iOS and Android**.
