@@ -1,8 +1,8 @@
-# Privacy Policy for Memory Twist: Flip & Match
+# Privacy Policy for Neuro Twist: Flip & Match
 
 *Last updated: May 25, 2025*
 
-This privacy policy describes how **Memory Twist: Flip & Match** ("we", "our", or "the app") handles your information.
+This privacy policy describes how **Neuro Twist: Flip & Match** ("we", "our", or "the app") handles your information.
 
 ## 1. No Personal Data Collected
 
